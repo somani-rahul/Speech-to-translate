@@ -1,6 +1,6 @@
-# voice_to_translate
+# This is an explanation for speech to translate app 
 This is a readme file
-This app converts your voicet to text of a certain language.
+This app converts your voice to text of a certain language.
 
 ## Getting Started
 
